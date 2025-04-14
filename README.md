@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Allen</h1>
-<h3 align="center">I am currently studying Computer Science at Bina Nusantara University. My passion are web development and mobile development. I have experience in Web development using framework such as Laravel and Springboot, also Mobile development using Flutter and Java</h3>
+<h3 align="center">a soon-to-be Computer Science graduate from Bina Nusantara University. I’m passionate about web and backend development, and I love turning ideas into real, scalable applications.
+
+I enjoy working with frameworks like Laravel, Spring Boot, and Flutter, and I’m always exploring new tools and technologies to grow as a developer.
+
+Here on GitHub, you’ll find some of the projects I’ve built, contributed to, or just had fun experimenting with. I’m always open to learning, collaborating, and building something meaningful.
+
+Thanks for stopping by! 👋</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
