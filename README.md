@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allen</h1>
-<h3 align="center">a soon-to-be Computer Science graduate from Bina Nusantara University. I’m passionate about web and backend development, and I love turning ideas into real, scalable applications.
+<h3 align="center">I’m passionate about web and backend development, and I love turning ideas into real, scalable applications.
 
 I enjoy working with frameworks like Laravel, Spring Boot, and Flutter, and I’m always exploring new tools and technologies to grow as a developer.
 
